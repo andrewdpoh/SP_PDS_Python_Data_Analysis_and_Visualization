@@ -1,0 +1,6 @@
+games-features.csv: https://data.world/craigkelly/steam-game-data/workspace/file?filename=games-features.csv
+steam_games.csv: https://www.kaggle.com/datasets/nikatomashvili/steam-games-dataset
+vgsales2019: https://www.kaggle.com/datasets/ashaheedq/video-games-sales-2019
+video_game_sales: https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings
+
+
