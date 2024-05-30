@@ -1,8 +1,10 @@
 # SP_PDS_Python_Data_Analysis_and_Visualization
 
 Python Data Analysis and Visualization project for the Programming for Data Science (PDS) module in SP. 
-CA1 uses the Numpy and Matplotlib libraries
-CA2 uses the Numpy, Pandas, Matplotlib and Seaborn libraries
+
+CA1 uses the Numpy and Matplotlib libraries.
+
+CA2 uses the Numpy, Pandas, Matplotlib and Seaborn libraries.
 
 The .html files show a final report of each assignment with the data analysis and plots.
 
