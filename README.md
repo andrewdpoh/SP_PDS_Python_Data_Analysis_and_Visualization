@@ -6,7 +6,7 @@ CA2 uses the Numpy, Pandas, Matplotlib and Seaborn libraries
 
 The .html files show a final report of each assignment with the data analysis and plots.
 
-## CA2 Screenshots
+## CA2 Snippets
 Data Cleaning:
 ![image](https://github.com/andrewdpoh/SP_PDS_Python_Data_Analysis_and_Visualization/assets/88697807/5a75058c-ace5-40db-96b9-ed99a7597e2f)
 
